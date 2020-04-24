@@ -1,0 +1,6 @@
+cryptography==2.9.1
+flask==1.1.2
+nexmo-jwt==1.0
+python-dotenv==0.13
+redis==3.4
+requests==2.23
